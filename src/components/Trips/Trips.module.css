@@ -1,0 +1,14 @@
+.tripsContainer {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 900px;
+}
+
+@media only screen and (min-width: 600px) {
+    .tripsContainer {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+

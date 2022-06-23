@@ -1,0 +1,28 @@
+{
+  "trips": [
+    { "id": 1,
+      "image": "https://f4fcdn.eu/wp-content/uploads/2019/07/Berlinv2.jpg",
+      "scope": "11 Countries, 25 Days",
+      "title": "European Quest",
+      "rating": 4.6,
+      "price": "2,877",
+      "priceBefore": "3,385"
+    },
+    { "id": 2,
+      "image": "https://www.sarahdegheselle.com/wp-content/uploads/2020/10/AdobeStock_282381041-1-1024x683.jpeg",
+      "scope": "2 Countries, 15 Days",
+      "title": "Simply Italy",
+      "rating": 4.4,
+      "price": "1,832",
+      "priceBefore": "2,155"
+    },
+    { "id": 3,
+      "image": "https://static.euronews.com/articles/stories/05/43/01/18/1440x810_cmsv2_61438a3f-ea37-5b7c-aee1-f743502f9df7-5430118.jpg",
+      "scope": "1 Countries, 10 Days",
+      "title": "Italian Espresso",
+      "rating": 4.5,
+      "price": "1,245",
+      "priceBefore": "1,465"
+    }
+  ]
+}

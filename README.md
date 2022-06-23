@@ -1,6 +1,7 @@
 # App is using "Create React App" and "json-server"
 
 After copying the repo, type npm i, then you should run json-server by typing json-server --watch db.json (make sure you are in the correct "data" folder).\
+
 Json server will run on port 3000, so to run the localhost to see the page you will have to use another one, for example 3001.
 
 ## Getting Started with Create React App
